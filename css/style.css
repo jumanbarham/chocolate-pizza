@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+body{
+    margin: auto;
+    width: 90%;
+
+}
