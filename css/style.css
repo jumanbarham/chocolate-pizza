@@ -206,5 +206,23 @@ main {
     padding-bottom: 0;
 font-size: 30px;
 color: #231f30;
+=======
+.heroimg {
+    width: 1000px;
+    padding-top: 30px;
+}
+.button {
+    float: right;
+    background-color: antiquewhite;
+    color: white;
+    padding: 20px 40px 20px 40px;
+    font-size: 20px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    border-style: none;
+}
+body{
+    margin: auto;
+    width: 90%;
 
 }
